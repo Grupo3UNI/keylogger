@@ -16,7 +16,7 @@ int enviar(char *cadena){
 	MYSQL_ROW row; /*contendra los campos por cada registro consultado */
 	char *server = "gualambo.com"; 
 	char *user = "gualambo2"; 
-	char *password = "gualambo2"; 
+	char *password = "70kP[PA%,~?T";
 	char *database = "g_key"; 
 	conn = mysql_init(NULL); 
 
