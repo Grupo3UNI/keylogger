@@ -17,7 +17,7 @@ int enviar(char *cadena){
 	char *server = "gualambo.com"; 
 	char *user = "gualambo"; 
 	char *password = "70kP[PA%,~?T";
-	char *database = "g_key"; 
+	char *database = "g_mantenimiento"; 
 	conn = mysql_init(NULL); 
 
 	/* conectar a la base de datos */
