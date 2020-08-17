@@ -14,3 +14,6 @@ El siguiente paso es la compilación, ejecutando este comando en la misma carpet
 
 Ejecutar
 #### ./keylogger
+
+Aqui ver el video
+https://www.youtube.com/watch?v=BhbXhuOdphk 
